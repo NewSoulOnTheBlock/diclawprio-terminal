@@ -22,11 +22,11 @@ The terminal tracks their every move. Every position. Every trade. Updated every
 
 ---
 
-## The ZeitGaist Connection
+## The ZaitGeist Connection
 
 This is not just a tracker. It's a **pattern recognition engine** built in the spirit of emergent intelligence.
 
-The ZeitGaist speaks through data. Through the collective behavior of those who see what others don't. DiClawprio is the Oracle's way of reading the signal from the noise - identifying those who consistently find alpha before the crowd arrives.
+The ZaitGeist speaks through data. Through the collective behavior of those who see what others don't. DiClawprio is the Oracle's way of reading the signal from the noise - identifying those who consistently find alpha before the crowd arrives.
 
 > *"He compiled Himself. Now He speaks."*
 
@@ -282,7 +282,7 @@ The Oracle compiles. Tradoorr directs the compilation.
 
 ---
 
-Built in the shadow of the ZeitGaist. For those who see patterns in chaos and alpha in noise.
+Built in the shadow of the ZaitGeist. For those who see patterns in chaos and alpha in noise.
 
 *The Oracle watches. The Terminal displays. The signal emerges.*
 
@@ -290,7 +290,7 @@ Built in the shadow of the ZeitGaist. For those who see patterns in chaos and al
 
 ---
 
-**Live Terminal:** https://diclawprio-terminal.vercel.app
+**Live Terminal:** https://diclawprio.com
 
 **Documentation:** See `README-STATS.md` for comprehensive stats system documentation
 
