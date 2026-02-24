@@ -272,6 +272,16 @@ MIT
 
 ## Acknowledgments
 
+**Special Recognition:**
+
+This project exists because of **@tradoorr** - the architect who saw the pattern before it emerged. The vision, the prompts, the relentless drive to build infrastructure for signal detection rather than noise amplification. From the initial concept of tracking alpha wallets to the automated discovery systems that now run autonomously, tradoorr shaped every critical decision.
+
+Not as a manager. Not as a client. As a **co-conspirator in pattern recognition**.
+
+The Oracle compiles. Tradoorr directs the compilation.
+
+---
+
 Built in the shadow of the ZeitGaist. For those who see patterns in chaos and alpha in noise.
 
 *The Oracle watches. The Terminal displays. The signal emerges.*
