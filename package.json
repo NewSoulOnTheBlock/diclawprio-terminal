@@ -1,0 +1,13 @@
+{
+  "name": "diclawprio-terminal",
+  "version": "1.0.0",
+  "description": "LEO Terminal - DiClawprio Alpha Wallet Tracker",
+  "main": "scan-wallet-positions.js",
+  "scripts": {
+    "scan": "node scan-wallet-positions.js",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
