@@ -102,7 +102,7 @@ Vercel Edge → Terminal Display → Real-Time Updates
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-org/diclawprio-terminal.git
+git clone https://github.com/NewSoulOnTheBlock/diclawprio-terminal.git
 cd diclawprio-terminal
 
 # Install dependencies
